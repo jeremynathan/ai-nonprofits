@@ -86,7 +86,7 @@ Services available throughout King County.
 Slide 38
 
 I have 3 months of nonprofit data across 3 Excel sheet, January, February and March.
-On another sheet, make an income analysis of how many households’ income went up or down and poverty level category changes, summarize which outcomes improved. Make charts and graphs
+Make another new sheet making an income analysis of how many households’ income went up or down and employment status change and summarize which outcomes improved. Make charts and graphs
 
 
 Slide 40
