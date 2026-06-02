@@ -1,0 +1,106 @@
+Slide 17
+
+Help me plan an event
+
+Slide 18
+
+I’m planning a 200-person outdoor fundraising gala for our animal rescue nonprofit on September 20. Our budget is $15,000. Draft a detailed timeline from 8 weeks out through event day, including vendor deadlines, volunteer assignments, and a rain contingency plan. Use a friendly, organized tone suitable for sharing with our board.
+
+Slide 19
+
+Write a donor email
+
+Write a warm 175-word email to a past donor who supported after-school programming last year. Invite them to fund a summer youth program. Grateful, hopeful tone. Include one impact stat.
+Slide 23
+
+Summarize 3-year trends in youth mentoring: Retention, academic gains, and community impact.150 words.
+Use that summary to draft a 200-word donor letter for our mentoring program. Confident, data-backed tone. Lead with the strongest stat.
+
+now make a great LinkedIn post
+
+make it shorter and ask a question to get interaction
+
+
+Slide 25
+
+I work for Sunshine Community Services, a nonprofit that provides after-school tutoring and mentorship for underserved youth in the Seattle metro area. We are hosting our annual fundraising gala on Saturday, October 17, 2026 from 6:00–9:00 PM at the Seattle Aquarium. Tickets are $75 per person and tables of 8 are $500. Draft a warm, professional email invitation for our donor mailing list. Highlight our impact this year: 240 students served, 92% grade improvement rate, and 15 new mentor partnerships. Include a clear call to action with a link to purchase tickets at sunshineservices.org/gala.
+
+Slide 27
+
+what are client next steps?
+Client attended scheduled case management meeting and actively participated in the discussion. Client reported ongoing financial stress related to reduced work hours and stated she is currently two weeks behind on rent payments. Case manager reviewed available eviction prevention resources and assisted the client with completing a rental assistance application. Budgeting strategies and methods for prioritizing essential expenses were also discussed. Client expressed strong motivation to maintain stable housing for herself and her two children and appeared engaged in identifying solutions and available community supports.
+
+
+Example of what the output looks like:
+•	Submit all required documentation for the rental assistance application, including proof of income, lease agreement, and past-due rent notice. 
+•	Follow up with the rental assistance agency regarding application status within 5–7 business days. 
+•	Contact landlord to discuss current financial situation and communicate efforts being made to secure assistance. 
+•	Implement budgeting strategies discussed during the meeting, including prioritizing rent, utilities, food, and childcare expenses. 
+•	Explore additional community resources for food assistance, utility support, and temporary financial aid if needed. 
+•	Monitor work schedule and continue seeking opportunities for additional hours or supplemental income. 
+•	Attend next scheduled case management appointment to review progress, application updates, and additional housing stabilization supports. 
+•	Notify case manager immediately if eviction notices are received or housing situation changes. 
+
+
+
+Slide 28
+
+Client missed two appointments, recently started part-time work, needs childcare support, asked about transportation assistance, wants help updating resume.’ Create a neutral case summary, next-steps checklist, referral categories, and a short supervisor update.
+
+Rewrite the supervisor update as a brief email to a partner agency requesting a warm referral for childcare and transportation services.
+
+
+what could be causing this client to miss meetings?
+
+
+how can i help this client?
+
+Slide 30
+
+You’re a volunteer relations coordinator at a community nonprofit. Draft a personalized email inviting volunteers from previous events to an annual leadership program. Include the volunteer’s past contributions, program dates and benefits, and use a warm, motivating tone
+
+Slide 31
+
+Draft a donation request letter for a nonprofit that serves at-risk youth. Include one specific impact statistic, a personal story hook, and a clear ask with suggested giving levels ($25, $50, $100). Keep the tone grateful and urgent.
+
+Slide 35
+
+Translate this to [Spanish/Vietnamese/Somali]. Keep the tone warm and accessible.
+Dear Community Members,
+We provide: Food assistance – housing support – transportation help – youth mentoring.
+Contact us for support.
+
+Slide 36
+
+Dear Community Members,
+Hope Harbor Community Outreach is here to support families facing food insecurity, housing instability, and financial hardship.
+We provide:
+•	Food assistance
+•	Housing support
+•	Transportation assistance
+•	Youth mentoring
+•	Workforce development
+Services available throughout King County.
+
+
+Slide 38
+
+I have 3 months of nonprofit data across 3 Excel sheet, January, February and March.
+On another sheet, make an income analysis of how many households’ income went up or down and poverty level category changes, summarize which outcomes improved. Make charts and graphs
+
+
+Slide 40
+
+Create a PowerPoint presentation for a quarterly board meeting.
+•	Make pictures, speaker notes and bullet points on every slide. 
+•	Suggest visuals or charts. 
+•	Show an overview of each month
+•	Show Program outcomes and impact 
+Challenges or risks and priorities for next quarter
+Tone: Clear, professional, and appropriate for board members Keep slides concise and focused on key insights
+
+
+Slide 41
+
+make an annual report based on this file
+Organization overview & mission Community need & program overview Impact statistics with chart ideas Success stories & volunteer contributions Donor impact & future goals Call to action & speaker notes
